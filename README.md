@@ -16,7 +16,7 @@ The README Generator is a command-line application that generates a README based
 
 ## Installation
 
-To install the necessary dependencies, run `npm install`. Additionally, you will need to pull the initial project from the repo and clone it into your personal VSC. From there, follow the instructions I provided at the onset of the instructions.
+To install the necessary dependencies, run `npm install`. Additionally, you will need to pull the initial project from the repo and clone it into your personal VSC. From there, follow the instructions I provided at the onset of the installation instructions.
 
 ## Usage
 
